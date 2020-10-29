@@ -1,0 +1,11 @@
+Django==3.0.6
+djangorestframework==3.11.0
+psycopg2-binary==2.8.5
+python-dotenv==0.13.0
+pytz==2020.1
+# development requirements
+flake8
+flake8-broken-line
+flake8-quotes
+model_mommy
+mypy
